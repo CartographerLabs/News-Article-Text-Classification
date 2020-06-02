@@ -1,4 +1,4 @@
-# News-Article-Text-Classification
+# News Article Text Classification
 A pre-trained Multi-Class Text Classification model for identifying the topic of news articles. The purpose of this model is to provide it with a given piece of text and to be provided with it's topic/ category. These categories are based off common news website categories. 
 
 This model was created with the help of Susan Li, [who wrote this article](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f).
