@@ -7,20 +7,20 @@ python -m pip install git+https://github.com/user1342/News-Article-Text-Classifi
 ```
 
 ## Usage 
-Using the class
+Using the class:
 ```python 
 from news_classification.news_topic_text_classifier import news_topic_text_classifier
 model = news_topic_text_classifier()
 ```
 
-print model data 
+print model data:
 ```python
 model.print_model_feature_data()
 ```
 
-Identify the topic of a given piece of text
+Identify the topic of a given piece of text:
 ```python
-# Get all categories current used in the model
+# Get all categories currently used in the model
 print(model.get_all_categories())
 # Get the category of a given piece of text
 print(model.get_category(r"The introduction of the General Data Protection Regulation (GDPR), the EU is enacting a set of mandatory regulations for businesses that go into effect soon, on May 25, 2018. Organisations found in non-compliance could face hefty penalties of up to 20 million euros, or 4 percent of worldwide annual turnover, whichever is higher. Simply put, GDPR was enacted to give citizens and residents more control over their personal data and puts strict data handling rules in place governing “controllers” that collect data from EU residents, and “processors” that process the data on behalf of controllers, such as cloud providers."))
