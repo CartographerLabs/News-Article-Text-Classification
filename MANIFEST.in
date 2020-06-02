@@ -1,0 +1,2 @@
+include  news_classification/data/*
+include news_classification/models/*
