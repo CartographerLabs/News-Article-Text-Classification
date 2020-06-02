@@ -56,7 +56,7 @@ class news_topic_text_classifier:
         A function for creating a dataset following the format used in this model.
         :param dataset:
         """
-        deny_words = ["Image copyright", "Getty Images", "image caption", "reuters"]
+        deny_words = ["Image copyright", "Getty Images", "image caption", "reuters","getty"]
 
         dict_of_bbc_feeds = {
             "business": ["http://feeds.bbci.co.uk/news/business/rss.xml", "https://www.dailymail.co.uk/money/index.rss",
