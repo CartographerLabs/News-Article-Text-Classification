@@ -13,7 +13,7 @@ from news_classification.news_topic_text_classifier import news_topic_text_class
 model = news_topic_text_classifier()
 ```
 
-print model data:
+Print model data:
 ```python
 model.print_model_feature_data()
 ```
