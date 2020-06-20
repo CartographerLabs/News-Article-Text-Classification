@@ -1,0 +1,114 @@
+{
+  "business": [
+    "http://feeds.bbci.co.uk/news/business/rss.xml",
+    "https://www.dailymail.co.uk/money/index.rss",
+    "http://www.independent.co.uk/news/business/rss",
+    "https://www.wired.com/feed/category/business/latest/rss",
+    "http://rss.cnn.com/rss/money_news_international.rss",
+    "https://www.cnbc.com/id/10001147/device/rss/rss.html",
+    "http://feeds.skynews.com/feeds/rss/business.xml",
+    "https://www.dailytelegraph.com.au/business/rss"
+  ],
+  "politics": [
+    "http://feeds.bbci.co.uk/news/politics/rss.xml",
+    "https://www.cnbc.com/id/10000113/device/rss/rss.html",
+    "https://www.cbsnews.com/latest/rss/politics",
+    "http://feeds.skynews.com/feeds/rss/politics.xml",
+    "https://www1.cbn.com/rss-cbn-news-politics.xml",
+    "https://www.buzzfeed.com/politics.xml",
+    "https://www.washingtontimes.com/rss/headlines/news/politics/"
+  ],
+  "health": [
+    "http://feeds.bbci.co.uk/news/health/rss.xml",
+    "https://www.dailymail.co.uk/health/index.rss",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+    "https://www.buzzfeed.com/health.xml",
+    "https://www.cnbc.com/id/10000108/device/rss/rss.html",
+    "https://www.cbsnews.com/latest/rss/health",
+    "https://www.washingtontimes.com/rss/headlines/culture/health/",
+    "https://www1.cbn.com/rss-cbn-articles-health.xml"
+  ],
+  "family_and_education": [
+    "http://feeds.bbci.co.uk/news/education/rss.xml",
+    "https://www.huffpost.com/section/parents/feed",
+    "https://www.washingtontimes.com/rss/headlines/culture/home-living/",
+    "https://www.dailytelegraph.com.au/lifestyle/rss",
+    "https://www1.cbn.com/rss-cbn-articles-family.xml",
+    "https://www.washingtontimes.com/rss/headlines/news/family/",
+    "https://www.washingtontimes.com/rss/headlines/news/faith-family/"
+  ],
+  "science_and_enviroment": [
+    "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+    "https://www.dailymail.co.uk/sciencetech/index.rss",
+    "http://www.independent.co.uk/news/science/rss",
+    "https://www.wired.com/feed/category/science/latest/rss",
+    "http://rss.cnn.com/rss/edition_space.rss",
+    "http://feeds.feedburner.com/daily-express-science",
+    "http://feeds.feedburner.com/daily-express-nature",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml",
+    "https://www.buzzfeed.com/science.xml",
+    "https://www.cbsnews.com/latest/rss/science"
+  ],
+  "technology": [
+    "http://feeds.bbci.co.uk/news/technology/rss.xml",
+    "http://www.independent.co.uk/life-style/gadgets-and-tech/rss",
+    "https://www.wired.com/feed/category/gear/latest/rss",
+    "http://rss.cnn.com/rss/edition_technology.rss",
+    "https://www.huffpost.com/section/technology/feed",
+    "http://feeds.feedburner.com/daily-express-tech",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+    "https://www.buzzfeed.com/tech.xml",
+    "https://www.cbsnews.com/latest/rss/technology",
+    "http://feeds.skynews.com/feeds/rss/technology.xml",
+    "https://www.washingtontimes.com/rss/headlines/culture/technology/"
+  ],
+  "entertainment_and_arts": [
+    "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+    "https://www.dailymail.co.uk/news/arts/index.rss",
+    "https://www.wired.com/feed/category/culture/latest/rss",
+    "http://rss.cnn.com/rss/edition_entertainment.rss",
+    "https://metro.co.uk/life-style/arts/feed/",
+    "https://www.huffpost.com/section/comedy/feed",
+    "https://www.huffpost.com/dept/entertainment/feed",
+    "http://feeds.feedburner.com/daily-express-film-news",
+    "https://www.thesundaily.my/rss/style-life",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
+    "https://www.buzzfeed.com/music.xml",
+    "https://www.cbsnews.com/latest/rss/entertainment",
+    "http://feeds.skynews.com/feeds/rss/entertainment.xml",
+    "https://www.washingtontimes.com/rss/headlines/culture/entertainment/",
+    "https://www.dailytelegraph.com.au/entertainment/sydney-confidential/rss"
+  ],
+  "sport": [
+    "http://feeds.bbci.co.uk/sport/football/rss.xml?edition=uk",
+    "http://feeds.bbci.co.uk/sport/cricket/rss.xml",
+    "http://feeds.bbci.co.uk/sport/rugby-league/rss.xml",
+    "http://feeds.bbci.co.uk/sport/tennis/rss.xml",
+    "http://feeds.bbci.co.uk/sport/golf/rss.xml?edition=uk",
+    "http://www.independent.co.uk/sport/general/athletics/rss",
+    "http://www.independent.co.uk/sport/rugby/rugby-union/rss",
+    "http://rss.cnn.com/rss/edition_football.rss",
+    "https://metro.co.uk/sport/feed/",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+    "https://www.washingtontimes.com/rss/headlines/sports"
+  ],
+  "travel": [
+    "https://www.dailymail.co.uk/travel/index.rss",
+    "https://www.wired.com/feed/category/transportation/latest/rss",
+    "https://metro.co.uk/life-style/travel/feed/",
+    "http://feeds.feedburner.com/daily-express-travelnews",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+    "https://www.buzzfeed.com/bringme.xml",
+    "https://www.cnbc.com/id/10000739/device/rss/rss.html",
+    "https://www.washingtontimes.com/rss/headlines/culture/travel/"
+  ],
+  "food_and_drink": [
+    "http://www.independent.co.uk/life-style/food-and-drink/rss",
+    "https://metro.co.uk/life-style/food/feed/",
+    "https://www.huffpost.com/section/taste/feed",
+    "http://feeds.feedburner.com/daily-express-food",
+    "https://www.buzzfeed.com/food.xml",
+    "https://www1.cbn.com/rss-cbn-blogs-recipes.xml"
+  ]
+}

@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="News-Article-Topic-Text-Classification",
-    version="0.0.1",
+    version="0.0.2",
     author="James Stevenson",
     author_email="hi@jamesstevenson.me",
     description="A pre-trained text classification model for identifying the topic of a news article.",
@@ -20,5 +20,5 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
-    install_requires=['feedparser', 'pandas', 'sklearn','numpy','newspaper3k','pathlib'],
+    install_requires=['matplotlib', 'seaborn', 'feedparser', 'pandas', 'sklearn', 'numpy', 'newspaper3k', 'pathlib'],
 )
