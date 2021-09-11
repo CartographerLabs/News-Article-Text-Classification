@@ -3,7 +3,7 @@ A pre-trained Multi-Class Text Classification model for identifying the topic of
 
 This model was created with the help of Susan Li, [who wrote this article](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f).
 
-## Instalation 
+## Installation 
 ```shell
 python -m pip install git+https://github.com/user1342/News-Article-Text-Classification.git
 ```
